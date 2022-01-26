@@ -1,0 +1,13 @@
+* Variables:
+Las variables son como pequeños cajones en los cuales guardamos cosas, en este caso datos, para utilizar más tarde. 
+En ellos se les coloca un nombre, como si fuese una etiqueta para podes reconocerlos más facilmente.
+*Strings: 
+
+
+*Funciones:
+Las funciones son objetos que realizan acciones con las variables, como por ejemplo: calcular, cambiar, agrupar, etc. Imaginemos que las variables unos bloques y las funciones son las que vendrian a colaborar para que esos bloques se transformen en algo más o realicen alguna acción, como por ejemplo, que se transformen en un auto y salga andando. 
+Para construir una funcion necesitamos empezar una oracion con: function y luego hay que darle un nombre para despues poder recordarlo y utilizarlo, y que a su vez haga referencia a la accion que va a realizar, podriamos pensarlo como dijimos antes con las variables, que son como etiquetas de marcado. Luego de eso van parentesis seguidos del nombre colocado y a lo ultimo unos corchetes, que dentro de ellos van a estar las funciones que va a realizar.
+Luego de esto, en esos parentesis colocamos una variable, algo que querramos ir cambiando cuando lo necesitemos y podamos usar la funcion para varias cosas. Por ejemplo, se puede colocar la palabra ¨nombre¨y que la funcion tenga como acción realizar un saludo, entonces vamos a poder cambiar solo el nombre cuando usemos la funcion. Podemos usar más de una variable dentro del parentesis.
+Hay una parte importante en las funciones, cuando queremos que el ordenador realice una cuenta, ya sea suma o resta, (como en la calculadora) esperamos que nos de el resultado de la misma, entonces le escribimos ¨return¨ debajo de la suma que le pedimos, por ejemplo, entonces el ordenador nos va a mostrar el resultado, nos va a devolver el valor de lo que le pedimos.
+*Declaraciones:
+Las declaraciones nos ayudan a resolver cosas que tengan dos respuestas, como por ejemplo: verdadero y falso, si o no, correcto e incorrecto, etc. Le damos las dos opciones al ordenador y dependiendo que le pidamos luego él nos respondera con lo anotado anteriormente. Por ejemplo, le decimos que la zanahoria es naranja, eso es verdadero, y si le decimos otro color es falso. Entonces si apuntamos otra afirmación, con otro color lo tomará como falso.  
