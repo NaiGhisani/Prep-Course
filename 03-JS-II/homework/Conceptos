@@ -1,0 +1,9 @@
+* "for":
+Es una expresion que nos ayuda a realizar ejecuciones en bucle, o sea, realizar acciones que se repitan infinito o hasta que le indiquemos que paren.
+* "&&":
+Este es un operador logico, es igual a un "y", nos ayuda a unir dos contenidos, como por ejemplo "a && b....", seria como si dijeramos "a y b...".
+Si ambos contenidos o expresiones son positivos, devuelve un true. Si uno de ellos es positivo y el otro negativo, devuelve false. 
+* "||":
+Este operador logico es igual a un "o", que seria como "o es asi o es asi". En este caso, si ambas expresiones son true, devolvera true, y si una de ellas es true, devolvera true. Si ambas son false, devolvera false.
+* "!":
+Este operador logico ayuda a negar una accion, funciona como un "No", por ejemplo si anotamos " !== ", es " No es igual". En este caso, este operador devolvera un true o false, dependiendo lo que este anotado, que por supuesto, devolvera lo contrario.
