@@ -1,0 +1,2 @@
+*Arrays:
+Los arrays son como pequeñas cajas en donde almacenamos informacion, esta informacion pueden ser numeros, strings, boleanos y hasta funciones. Todos se colocan en forma de fila y se empiezan a contar desde 0, no desde 1 como estariamos acostumbrados. Por ejemplo: colocamos dentro de un array [1,4,"Hola", true, 7,8,funcion(),3], comenzamos contando al 1 como 0, entonces 4 seria 1 y asi sucesivamente.
