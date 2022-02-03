@@ -1,0 +1,10 @@
+*Objetos:
+Los objetos son contenedores, imaginemos que son cajas, y en esas cajas encontramos muchos datos pero de una misma cosa. Por ejemplo, podemos almacenar el nombre, apellido y edad de alguien. Son cosas de una misma persona, no contenemos cosas aisladas.
+*Propiedades:
+Las propiedades son los valores que se encuentran en los objetos. Volviendo al ejemplo anterior, el producto sería: el nombre, el apellido y la edad.
+*Métodos:
+Los métodos son las funciones que se encuentran dentro del producto. 
+*Bucle ¨for...in¨:
+Este bucle se utiliza especialmente en el caso de los objetos, porque los valores no se encuentran numeradas como en otros casos, entonces se busca con el ¨in¨y la palabra clave.
+*Notación de puntos vs notación de corchetes:
+La notacion con puntos se tpoma para busquedas literales, mientras que la notacion con corchetes sirve para más en profundidad, se pueden buscar ¨strings¨ o generar variables.
