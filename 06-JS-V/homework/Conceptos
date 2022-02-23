@@ -1,0 +1,4 @@
+*Prototype:
+Los prototipos son los objetos que se encuentran dentro de cada objeto que hacen referencia a otro objeto. Cuando creamos un objeto con sus propiedades, por defecto contiene un prototype, que a su vez tambien contiene propiedades. 
+*Constructors (de clases):
+Los constructors son plantillas que podemos reutilizar sin repetir objetos, nos facilita la escritura de los mismos y gracias a eso tenemos menos chances de cometer errores y que luego no funcione. 
