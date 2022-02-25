@@ -1,0 +1,9 @@
+*funciones callBacks:
+Se le llama asi a la funcion que la trasformamos en argumento.
+Existen distintos callbacks: 
+-.forEach:
+Ejecuta la funcion indicada una vez por cada elemento del array, esta funcion no retorna a nada.
+-.map:
+Esta funcion crea una nueva array con los resultados de la operacion que le asignamos. Esta funcion si retorna a algo.
+-.reduce:
+Ejecuta una funcion reductora por cada elemento del array, de esta forma devuelve un unico valor, se puede llegar a utilizar para obtener un resultado de una suma, resta, etc.
